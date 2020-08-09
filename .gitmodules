@@ -1,0 +1,9 @@
+[submodule "Proffy-server"]
+	path = Proffy-server
+	url = https://github.com/muNeves3/Proffy-server
+[submodule "Proffy-mobile"]
+	path = Proffy-mobile
+	url = https://github.com/muNeves3/Proffy-mobile
+[submodule "Proffy-web"]
+	path = Proffy-web
+	url = https://github.com/muNeves3/Proffy-web
